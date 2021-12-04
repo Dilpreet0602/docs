@@ -16,7 +16,6 @@ topics:
   - Pull requests
 ---
 ## About pull requests
-
 {% note %}
 
 **Note:** When working with pull requests, keep the following in mind:
